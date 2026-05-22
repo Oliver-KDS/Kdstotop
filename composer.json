@@ -1,0 +1,22 @@
+{
+  "name": "kdstotop",
+  "description": "The Kds Scroll To Top Plugin",
+  "homepage": "https://www.kds-kassel.de",
+  "authors": [
+    {
+      "name": "Oliver Kurth",
+      "email": "info@kds-kassel.de",
+      "homepage": "https://www.kds-kassel.de",
+      "role": "Developer"
+    }
+  ],
+  "type": "typo3-cms-extension",
+  "version": "14.0.0",
+  "license": ["GPL-2.0-or-later"],
+
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "kdstotop"
+    }
+  }
+}
